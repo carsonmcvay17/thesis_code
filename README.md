@@ -20,4 +20,4 @@ This code is organized into a few folders\
 -keras\
 -numpy\
 -math\
--scipy\
+-scipy
